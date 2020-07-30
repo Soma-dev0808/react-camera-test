@@ -3,10 +3,11 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import DragImageTest from "./DropZone/DragImageTest"
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    <DragImageTest />
   </React.StrictMode>,
   document.getElementById('root')
 );
