@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/react-camera-test/static/css/main.5f361e03.chunk.css",
+    "main.js": "/react-camera-test/static/js/main.06ab8684.chunk.js",
+    "main.js.map": "/react-camera-test/static/js/main.06ab8684.chunk.js.map",
+    "runtime-main.js": "/react-camera-test/static/js/runtime-main.df9fa0ef.js",
+    "runtime-main.js.map": "/react-camera-test/static/js/runtime-main.df9fa0ef.js.map",
+    "static/js/2.57322582.chunk.js": "/react-camera-test/static/js/2.57322582.chunk.js",
+    "static/js/2.57322582.chunk.js.map": "/react-camera-test/static/js/2.57322582.chunk.js.map",
+    "index.html": "/react-camera-test/index.html",
+    "precache-manifest.0356ae467f51f6ef6b124c1d470e9439.js": "/react-camera-test/precache-manifest.0356ae467f51f6ef6b124c1d470e9439.js",
+    "service-worker.js": "/react-camera-test/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/react-camera-test/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.57322582.chunk.js.LICENSE.txt": "/react-camera-test/static/js/2.57322582.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/react-camera-test/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df9fa0ef.js",
+    "static/js/2.57322582.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.06ab8684.chunk.js"
+  ]
+}
